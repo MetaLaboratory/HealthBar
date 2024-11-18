@@ -13,3 +13,5 @@
 // there are many ways to do this, this is one that uses just the UI background image, sliced images, and RectTransform to scale width (x in 2d vector))
 
 // you could also access with: RectTransform healthBarRT = healthBar.GetComponent<RectTransform>();
+
+// here is a version using a UI Slider - also fully 3D compatible: https://www.youtube.com/watch?v=7Jy2xOzIvQQ
